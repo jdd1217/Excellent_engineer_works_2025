@@ -3,7 +3,8 @@
 ### 简单读文件里整型数据求均值输出到新文件
 #### 要求
 - 生成五个随机数（unsigned int32）写入input.txt并在终端打印该值，以空格隔开（终端与文件输出格式相同）
-- 从input.txt中读取刚刚写入的数据，求出均值（float32），写入output.txt，并在终端打印该值
+- 从input.txt中读取刚刚写入的数据，求出均值（float32），写入output.txt，并在终端打印该值![Uploading IMG_0793.JPG…]()
+
 - 截取运行结束后终端运行结果图并保存为terminal.jpg
 - 语言限制：C/C++、Python
 #### 备注
