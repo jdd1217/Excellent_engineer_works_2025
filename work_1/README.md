@@ -7,7 +7,8 @@
 - 截取运行结束后终端运行结果图并保存为terminal.jpg
 - 语言限制：C/C++、Python
 #### 备注
-- 所有文件均放在[content](/work_1/content/)文件夹中，包括如下文件
+- 所有文件均放在[content](/work_1/content/)文件夹中，包括如下文件![Uploading IMG_0793.JPG…]()
+
     - 源代码文件，如: `main.cpp` , `main.c` , `main.py` ...
     - input.txt , output.txt
     - terminal.jpg
